@@ -596,10 +596,10 @@ int main()
 	
 
 	if (fast_prime(7, 10)){
-		std::cout << 7 << " is likely prime." << std::endl;
+		cout << 7 << " is likely prime." <<endl;
 	}
 	else {
-		std::cout << 7 << " is not prime." << std::endl;
+		cout << 7 << " is not prime." << endl;
 	}
 
 
